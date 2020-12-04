@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BEQA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BEQA\\.nuget\\packages"
+    ]
+  }
+}
